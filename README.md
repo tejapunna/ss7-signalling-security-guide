@@ -541,4 +541,3 @@ Many SS7 write-ups online repeat claims that are inaccurate or outdated.
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE). You may share and adapt this with attribution. Please keep the educational-use disclaimer.
 
 > **Reminder:** understanding a weakness is how defenders fix it. Using it against people who did not consent is how researchers end up in court. Stay on the right side of that line.
-# ss7-signalling-security-guide
